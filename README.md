@@ -1,5 +1,5 @@
 # Unic
-The closed-source C# library for everything coding.
+The C# library for everything coding.
 
 ## Installation
 ### Just use
